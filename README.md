@@ -1,7 +1,7 @@
-# DataStructureAndAlgorithm
+# DataStructureAndAlgorithm 
 Cal Poly Pomona Data Structure and Algorithm Class projects
 
-# Data Structure
+# Data Structure (CS2400)
  **Project 1** - Bag, which is a duplicated random order element list. Implementing three different methods using a Resizeable array list and linked list.
 
  **Project 2** - Stack application. Implementing convert to postfix method and evaluating postfix evaluation method using a Resizeable array list and linked list.
@@ -10,7 +10,7 @@ Cal Poly Pomona Data Structure and Algorithm Class projects
 
  **Project 4** - Graph. Implementing adjacency list representation and neighbor methods which returns an array containing the neighbors of vertex. 
 
-# Algorighm
+# Algorighm (CS3100)
  **Project 1** - Matrix Multiplication. Implementing three different matrix multiplication methods<br> 
 1. Classiacal matrix multiplication
 2. Divide and Conquer matrix multiplication
